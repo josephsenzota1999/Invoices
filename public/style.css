@@ -1,0 +1,153 @@
+.firstContainer{
+    background: #444444;
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    width: 1365px;
+    overflow: hidden;
+}
+
+.card1{
+    position: relative;
+    top: 95px;
+    left: 240px;
+    width: 370px;
+    height: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.card2{
+    position: relative;
+    top: 95px;
+    left: 240px;
+    width: 370px;
+    height: 345px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.form-control{
+    width: 290px;
+    position: relative;
+    left: 28px;
+    font-size: 15px;
+}
+.form-check a{
+    text-decoration: none;
+    position: relative;
+    left: -125px;
+    top: -15px;
+    font-size: 12px;
+}
+.btn1{
+    background-color: #444444;
+    border-color: #444444;
+    width: 290px;
+    position: relative;
+    left: -90px;
+    top: -29px;
+    font-size: 15px;
+}
+.btn2{
+    background-color: #E7E7E7;
+    border-color: #E7E7E7;
+    width: 290px;
+    position: relative;
+    left: -90px;
+    top: -29px;
+    font-size: 15px;
+}
+.btn02{
+    background-color: #444444;
+    border-color: #444444;
+    width: 290px;
+    position: relative;
+    left: -90px;
+    top: 2px;
+    font-size: 15px;
+}
+.jj{
+    position: relative;
+    /* left:-105px; */
+    font-size: 12px;
+    top: -29px;
+}
+.jk{
+    position: relative;
+    /* left:-105px; */
+    font-size: 12px;
+    top: 20px;  
+}
+a{
+    text-decoration: none;
+}
+.logo img{
+    width:45px;
+    position: relative;
+    top: 50px;
+    left:400px;
+}
+.h51{
+    color: white;
+    position: relative;
+    top: 60px;
+    left:300px;
+}
+.h52{
+    color: white;
+    position: relative;
+    top: 60px;
+    left:280px;
+}
+.h52 span{
+    color: white;
+    position: relative;
+
+    left:58px;
+}
+input, label {
+    display:block;
+}
+.collapse ul li:hover{
+  color: gray;
+}
+.name{
+    font-size: 5px;
+}
+.donate{
+    background-color: white;
+}
+.navbar{
+    background-color: #444444;
+    position: relative;
+    top: -24px;
+}
+.navbar .container a{
+    color: white;
+}
+.navbar-brand{
+    font-weight: 500;
+}
+.navbar-brand img{
+    height: 40px;
+}
+.home{
+    padding-left: 29px;
+}
+.container2{
+    background-color: #f3f4f6;
+    position:absolute;
+    top:70px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+    width: 1365px;
+    overflow: hidden;
+}
+.nav-tabs{
+    position: relative;
+    top: 20px;
+}
